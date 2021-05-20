@@ -8,10 +8,10 @@ class Solution {
         
         long key = 1;
         int start = 0;
-        int end = arr.length - 1;
+        int end = 1;
         
         // finding the range in which we can get the answer;
-        while(count < n && 1 > arr[end]){
+        while(1 > arr[end]){
             start = end;
             end = end * 2;
         }
@@ -20,7 +20,7 @@ class Solution {
         
         int res = -1;
         while(start <= end){
-            long mid = start + (end - start)/2;
+            int mid = start + (end - start)/2;
             
             if(key == arr[mid]){
                 res = mid;
