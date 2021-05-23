@@ -112,7 +112,7 @@ class Solution {
                     nsl[k++] = st.peek()[1];
             }
             
-            st.push(new int[]{arr[i], i});
+           st.push(new int[]{arr[i], i});
         }
     }
     
