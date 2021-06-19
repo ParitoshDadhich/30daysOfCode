@@ -4,7 +4,7 @@
 
 **Difficulty Levels solved :**
 
-🟢 Easy: 70  
+ 🟢 Easy: 70  
  🟡 Medium: 60  
  🔴 Hard:2  
  ⚫️ Very Hard: 0  
@@ -25,7 +25,7 @@ __Focus for today:__ Heaps/Priority Queues
 
  -->
 
-## Day 0
+## Day 1
 
 Adding solutions to all problems I have completed today
 
@@ -33,7 +33,7 @@ Adding solutions to all problems I have completed today
 
 #### LeetCode
 
-41. 🟢 [Remove Duplicates from Sorted Array](Leetcode/Problems/Easy/remove-duplicates-from-sorted-array.cpp) _Notes: Use Hash Map!_
+41. 🟢 [Remove Duplicates from Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) _Notes: Use Binary Search!_
 42. 🟢 [Rotate Array](Leetcode/Problems/Easy/rotate-array.cpp) _Notes: Recursion or (i+k)%n Index!_
 43. 🟢 [Reverse String](Leetcode/Problems/Easy/reverse-string.cpp) _Notes: Recursion!_
 
