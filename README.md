@@ -33,7 +33,8 @@ Adding solutions to all problems I have completed today
 
 #### LeetCode
 
-33. 🟡 [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) _Notes: Use Binary Search!_
+33. 🟡 [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) _Notes: Use Binary Search!_ 
+<br>
 153.🟡 [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) _Notes: Use Binary Search!_
 43. 🟡 [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) _Notes: Use Binary Search!_
 540.🟡 [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
