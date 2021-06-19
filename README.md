@@ -33,19 +33,15 @@ Adding solutions to all problems I have completed today
 
 #### LeetCode
 
-41. 🟢 [Remove Duplicates from Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) _Notes: Use Binary Search!_
-42. 🟢 [Rotate Array](Leetcode/Problems/Easy/rotate-array.cpp) _Notes: Recursion or (i+k)%n Index!_
-43. 🟢 [Reverse String](Leetcode/Problems/Easy/reverse-string.cpp) _Notes: Recursion!_
+33. 🟡 [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) _Notes: Use Binary Search!_
+153.🟡 [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) _Notes: Use Binary Search!_
+43. 🟡 [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) _Notes: Use Binary Search!_
+540.🟡 [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 
-#### AlgoExpert
+#### GeeksForGeeks
 
-44. 🟢 [Palindrome Check](AlgoExpert/Easy/pallindrome-check.cpp) _Notes: 2 Pointer's (Best)!_
-
-#### Educative
-
-[Sliding Window Technique Pattern](Educative/pattern-sliding-window)
-
-45. 🟢 [Average of all contiguous subarrays of size ‘K’](Educative/pattern-sliding-window/introduction.cpp)
+   🟡 [Number of occurrence ](https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1) _Notes: Use Binary Search!_
+ 
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 
